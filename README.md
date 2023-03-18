@@ -57,7 +57,7 @@ Um evento feito para melhor conhecimento em programação e desejo de dar o prim
 </table>
 <br>
 
-- [Visite o projeto online](https://isaluh.github.io/jvpz)
+- [Visite o projeto online](https://isaluh.github.io/jzpv/)
 
 ## 🏯 Layout
 
