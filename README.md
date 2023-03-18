@@ -41,17 +41,17 @@ Um evento feito para melhor conhecimento em programação e desejo de dar o prim
     <tr>
         <td><img src="https://cdn.discordapp.com/emojis/1008814022923145368.webp?size=96&quality=lossless" alt="01" width='25' height='25'></td>
         <td>Horror Game</td>
-        <td><a href="horror_game"></a>🔗</td>
+        <td><a href="horror_game">🔗</a></td>
     </tr>
     <tr>
         <td><img src="https://cdn.discordapp.com/emojis/1008814051360510144.webp?size=96&quality=lossless" alt="02" width='25' height='25'></td>
         <td>Travels</td>
-        <td><a href="travel"></a>🔗</td>
+        <td><a href="travel">🔗</a></td>
     </tr>
     <tr>
         <td><img src="https://cdn.discordapp.com/emojis/1008814086152269914.webp?size=96&quality=lossless" alt="03" width='25' height='25'></td>
         <td>Eat Healthy</td>
-        <td><a href="healthy"></a>🔗</td>
+        <td><a href="healthy">🔗</a></td>
     </tr>
    </tbody>
 </table>
