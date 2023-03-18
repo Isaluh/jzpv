@@ -13,7 +13,7 @@ Criação de 3 layouts de tela com mesmo modelo<br/>
 <br>
 
 <p align="center">
-  <img alt="Imagem" src="https://s3-alpha.figma.com/hub/file/3182498928/980d001b-252b-4bce-98b8-71f95b25368a-cover.png" width="100%">
+  <img alt="Imagem" src="./img/layout.png" width="100%">
 </p>
 
 ## 🎓 Tecnologias
@@ -57,7 +57,7 @@ Um evento feito para melhor conhecimento em programação e desejo de dar o prim
 </table>
 <br>
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://isaluh.github.io/jvpz)
 
 ## 🏯 Layout
 
